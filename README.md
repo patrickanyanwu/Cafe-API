@@ -1,4 +1,4 @@
-<h1 align="center">Cafe API</h1>
+<h1 align="center">BrewBase</h1>
 <p>This project was made to showcase my skills with creating RESTful API's, this API allows for users to send get, post, patch and delete requests to the API in order to add, read, update and delete data from the database.</p>
 
 <h3>How it works</h3>
